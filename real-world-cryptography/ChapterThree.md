@@ -1,4 +1,4 @@
-## Message Authentication Codes (MAC)
+## Chapter Three: Message Authentication Codes (MAC)
 
 1. Message authentication codes are the combination of a hash function and a
    secret code

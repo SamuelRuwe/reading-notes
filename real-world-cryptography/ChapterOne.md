@@ -1,4 +1,4 @@
-## Chapter One
+## Chapter One: Primitives
 
 1. Protocol: Step by step recipe where multiple participants attempt to achieve
    something like exchanging confidential messages

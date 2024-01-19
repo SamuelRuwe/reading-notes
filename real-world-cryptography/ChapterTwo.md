@@ -1,4 +1,4 @@
-## Chapter Two Hash Functions
+## Chapter Two: Hash Functions
 
 A hash function takes any input data and produces a unique string of bytes in
 return
